@@ -1,4 +1,4 @@
-Sample configuration to demonstrate the used of cert-manager and ingress controller.
+Sample configuration to demonstrate the use of cert-manager and the ingress controller.
 - Need to install cert-manager on your openshift.
 
 Run "oc apply -f" for each of these taskss. 
